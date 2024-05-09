@@ -1,4 +1,4 @@
-### README for your Discord Bot
+## README
 
 #### Introduction
 
